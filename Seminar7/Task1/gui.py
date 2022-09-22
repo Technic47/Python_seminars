@@ -5,5 +5,6 @@ def get_input():
     numbers = number_a + ' ' + equation + ' ' + number_b
     return numbers
 
+
 def send_info(a):
     print(f'Your result: {a}')

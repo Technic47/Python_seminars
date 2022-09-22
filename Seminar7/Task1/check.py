@@ -13,3 +13,4 @@ def check(data):
             return functions.dev(data[0], data[2])
         case _:
             print("Wrong equation sign!")
+            return "Wrong equation sign!"
