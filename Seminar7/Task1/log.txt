@@ -1,0 +1,6 @@
+Your equation: 12 * 26 = 312
+Your equation: 55 + 66 = 121
+Your equation: 55   = None
+Your equation: 55   = None
+Your equation: 12 + 22 = 34
+Your equation: 12   = Wrong equation sign!
